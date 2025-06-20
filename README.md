@@ -18,4 +18,4 @@ Here, I regularly solve and upload C++ problems to improve my skills in programm
 ---
 
 Thanks for visiting! 🌟  
-If you find this helpful, feel free to ⭐ this repo and follow me for more!
+If you found this helpful and want to learn more, follow me!
