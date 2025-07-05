@@ -6,7 +6,7 @@ Here, I regularly solve and upload C++ problems to improve my skills in programm
 ## 📚 Topics Covered 
 
 - ✅ Basics (Input/Output, Data Types)
-- ✅ Conditional Statements (if-else, switch)
+- ✅ Conditional Statements (if-else, switch) 
 - ✅ Loops (for, while, do-while)
 - ✅ Functions & Recursion
 - ✅ Arrays & Strings
