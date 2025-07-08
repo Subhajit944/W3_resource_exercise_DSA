@@ -13,7 +13,7 @@ Here, I regularly solve and upload C++ problems to improve my skills in programm
 - ✅ Object-Oriented Programming (OOP)
 - ✅ STL (Vectors, Sets, Maps, etc.)
 - ✅ Sorting & Searching
-- ✅ Competitive Programming Practice
+- ✅ Competitive Programming Practice 
 
 ---
 
