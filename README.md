@@ -1,6 +1,6 @@
 # W3_resource_exercise_DSA 
 
-Welcome to my W3_resource_exercise_DSA repository! 💻  
+Welcome to my W3_resource_exercise_DSA repository! 💻   
 Here, I regularly solve and upload C++ problems to improve my skills in programming, problem solving, and core concepts of C++
 
 ## 📚 Topics Covered 
